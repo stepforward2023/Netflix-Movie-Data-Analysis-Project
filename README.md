@@ -5,6 +5,8 @@ The Goal is to understand trends in genres, popularity, votes, and yearly releas
 --- 
 Netflix is known for its work in data science, AI &amp; ML, particularly for building strong recommendations models and algorithms, that understand customer behaviour and patterns. 
 
+---
+
 ## Features of the Project
 - Cleaned and preprocessed the Netflix dataset using Pandas
 - Handled missing values and standardized categorical features
@@ -24,6 +26,7 @@ Netflix is known for its work in data science, AI &amp; ML, particularly for bui
 - Which movies have the lowest popularity and what are their genres?
 - Which year had the most movies filmed?
 
+---
   ## Tech Stack
   - Python
   - Pandas
@@ -31,8 +34,7 @@ Netflix is known for its work in data science, AI &amp; ML, particularly for bui
   - Matplotlib
   - Seaborn
   - Jupyter Notebook
- 
-  ---
+---
 
   ## Visulaizations
   - Genre frequency bar graphs
@@ -40,16 +42,18 @@ Netflix is known for its work in data science, AI &amp; ML, particularly for bui
   - Vote distributions plots
   - Release-year bar charts
   - Heatmaps for correlations
- 
-  ---
+---
 
-   ### How to Run the Project
-  1)Install dependencies:
+  ## How to Run the Project
+  - Install dependencies:
   "pip install pandas numpy matplotlib seaborn"
-  2) Run the notebook: jupyter notebook
+  - Run the notebook: jupyter notebook
+
+---
 
   ## Conclusion
   This analysis reveals Netflix's most popular genres, content trends over the years , and voting pattterns. The project demonstrates strong skills in data cleaning, visualization , and pattern extractions.
+---
     
 
 
