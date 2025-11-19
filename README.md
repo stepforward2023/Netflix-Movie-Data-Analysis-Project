@@ -2,10 +2,7 @@
 This project performs an in depth exploratory data analysis (EDA) on a Netflix Movie dataset containing more than 9,000 flims records.
 The Goal is to understand trends in genres, popularity, votes, and yearly release patterns through visual insights.
 
---- 
 Netflix is known for its work in data science, AI &amp; ML, particularly for building strong recommendations models and algorithms, that understand customer behaviour and patterns. 
-
----
 
 ## Features of the Project
 - Cleaned and preprocessed the Netflix dataset using Pandas
@@ -17,8 +14,6 @@ Netflix is known for its work in data science, AI &amp; ML, particularly for bui
 - Explored yearly movie production trends
 - Created multiple visulaizations inclusing bar charts, count plots, and heatmaps
 
----
-
 ## Key Questions Answered
 - Which genre appears most frequently on Netflix?
 - Which genres have the highest votes?
@@ -26,7 +21,7 @@ Netflix is known for its work in data science, AI &amp; ML, particularly for bui
 - Which movies have the lowest popularity and what are their genres?
 - Which year had the most movies filmed?
 
----
+
   ## Tech Stack
   - Python
   - Pandas
@@ -34,7 +29,6 @@ Netflix is known for its work in data science, AI &amp; ML, particularly for bui
   - Matplotlib
   - Seaborn
   - Jupyter Notebook
----
 
   ## Visulaizations
   - Genre frequency bar graphs
@@ -42,18 +36,18 @@ Netflix is known for its work in data science, AI &amp; ML, particularly for bui
   - Vote distributions plots
   - Release-year bar charts
   - Heatmaps for correlations
----
+
 
   ## How to Run the Project
   - Install dependencies:
   "pip install pandas numpy matplotlib seaborn"
   - Run the notebook: jupyter notebook
 
----
 
-  ## Conclusion
-  This analysis reveals Netflix's most popular genres, content trends over the years , and voting pattterns. The project demonstrates strong skills in data cleaning, visualization , and pattern extractions.
----
+
+## Conclusion
+-This analysis reveals Netflix's most popular genres, content trends over the years , and voting pattterns. The project demonstrates strong skills in data cleaning, visualization , and pattern extractions.
+
     
 
 
